@@ -1,0 +1,9 @@
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi05_LuuThuyMinhNhat\TimMax\TimMax\bin\Debug\TimMax.exe.config
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi05_LuuThuyMinhNhat\TimMax\TimMax\bin\Debug\TimMax.exe
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi05_LuuThuyMinhNhat\TimMax\TimMax\bin\Debug\TimMax.pdb
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi05_LuuThuyMinhNhat\TimMax\TimMax\obj\Debug\TimMax.Form1.resources
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi05_LuuThuyMinhNhat\TimMax\TimMax\obj\Debug\TimMax.Properties.Resources.resources
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi05_LuuThuyMinhNhat\TimMax\TimMax\obj\Debug\TimMax.csproj.GenerateResource.cache
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi05_LuuThuyMinhNhat\TimMax\TimMax\obj\Debug\TimMax.csproj.CoreCompileInputs.cache
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi05_LuuThuyMinhNhat\TimMax\TimMax\obj\Debug\TimMax.exe
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi05_LuuThuyMinhNhat\TimMax\TimMax\obj\Debug\TimMax.pdb

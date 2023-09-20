@@ -20,7 +20,7 @@ namespace Bai2
         private void txtA_TextChanged(object sender, EventArgs e)
         {
             Control ctr = (Control)sender;
-            if (txtA.Text.Length > 0 && !char.IsDigit(ctr.Text[ctr.Text.Length - 1]))
+            if (ctr.Text.Length > 0 && !char.IsDigit(ctr.Text[ctr.Text.Length - 1]))
                 this.errorProvider1.SetError(ctr, "Day khong phai la so!!");
             else
                 this.errorProvider1.Clear();
@@ -29,7 +29,7 @@ namespace Bai2
         private void txtB_TextChanged(object sender, EventArgs e)
         {
             Control ctr = (Control)sender;
-            if (txtA.Text.Length > 0 && !char.IsDigit(ctr.Text[ctr.Text.Length - 1]))
+            if (ctr.Text.Length > 0 && !char.IsDigit(ctr.Text[ctr.Text.Length - 1]))
                 this.errorProvider1.SetError(ctr, "Day khong phai la so!!");
             else
                 this.errorProvider1.Clear();
