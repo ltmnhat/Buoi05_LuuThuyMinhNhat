@@ -43,10 +43,7 @@ namespace Bai3
 
         private void btnDangKy_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(txtUsername.Text+"\n"+txtMail.Text+"\n"+txtPassword.Text);
-           
-
-
+            MessageBox.Show(txtUsername.Text+"\n"+txtMail.Text+"\n"+txtPassword.Text+"\n"+txtPasswordCf.Text,"Thong tin dang ky");
         }
 
         private void txtUsername_Leave(object sender, EventArgs e)
@@ -59,11 +56,7 @@ namespace Bai3
         }
         private bool IsValidEmail(string email)
         {
-            string pattern = @"^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$";
-
-            Regex regex = new Regex(pattern);
-
-            return regex.IsMatch(email);
+            //
         }
         private void txtMail_Leave(object sender, EventArgs e)
         {

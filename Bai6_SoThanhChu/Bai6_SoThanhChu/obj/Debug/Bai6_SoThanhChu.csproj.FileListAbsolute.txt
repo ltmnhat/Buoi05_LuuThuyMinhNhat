@@ -1,0 +1,10 @@
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi05_LuuThuyMinhNhat\Bai6_SoThanhChu\Bai6_SoThanhChu\bin\Debug\Bai6_SoThanhChu.exe.config
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi05_LuuThuyMinhNhat\Bai6_SoThanhChu\Bai6_SoThanhChu\bin\Debug\Bai6_SoThanhChu.exe
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi05_LuuThuyMinhNhat\Bai6_SoThanhChu\Bai6_SoThanhChu\bin\Debug\Bai6_SoThanhChu.pdb
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi05_LuuThuyMinhNhat\Bai6_SoThanhChu\Bai6_SoThanhChu\obj\Debug\Bai6_SoThanhChu.csproj.AssemblyReference.cache
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi05_LuuThuyMinhNhat\Bai6_SoThanhChu\Bai6_SoThanhChu\obj\Debug\Bai6_SoThanhChu.Form1.resources
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi05_LuuThuyMinhNhat\Bai6_SoThanhChu\Bai6_SoThanhChu\obj\Debug\Bai6_SoThanhChu.Properties.Resources.resources
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi05_LuuThuyMinhNhat\Bai6_SoThanhChu\Bai6_SoThanhChu\obj\Debug\Bai6_SoThanhChu.csproj.GenerateResource.cache
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi05_LuuThuyMinhNhat\Bai6_SoThanhChu\Bai6_SoThanhChu\obj\Debug\Bai6_SoThanhChu.csproj.CoreCompileInputs.cache
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi05_LuuThuyMinhNhat\Bai6_SoThanhChu\Bai6_SoThanhChu\obj\Debug\Bai6_SoThanhChu.exe
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi05_LuuThuyMinhNhat\Bai6_SoThanhChu\Bai6_SoThanhChu\obj\Debug\Bai6_SoThanhChu.pdb
